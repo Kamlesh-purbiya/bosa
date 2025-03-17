@@ -1,0 +1,99 @@
+.nav-li li:hover a{
+    color: rgb(241, 190, 113);
+    transition: all ease-in-out .6s;
+}
+.nav-li i:hover {
+    color: rgb(241, 190, 113);
+    transition: all ease-in-out .6s;
+}
+    
+.owl-carousel .owl-nav button.owl-prev span {
+    top: 32%;
+    left: 1%;
+    font-size: 100px;
+    position: absolute;
+}
+
+.owl-carousel .owl-nav button.owl-next span {
+    top: 32%;
+    right: 1%;
+    position: absolute;
+    font-size: 100px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    text-align: center;
+  }
+
+.tp-heading span {
+    width: 80px;
+    height: 4px;
+    background-color: rgb(199, 141, 55);
+}
+
+.item-p {
+    font-size: 12px;
+}
+.category-h{
+    padding-top: 30px;
+    padding-bottom: 34px;
+}
+.sale-a{
+    background-color: rgba(137, 221, 236, 0.671);
+}
+.sale-b{
+    height: 310px;
+    background-image: url(../img/img002.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.lable-r{
+    width: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 13px;
+}
+.lable-r p{
+    padding-top: 13px;
+    padding-bottom: 10px;
+}
+
+.sale-c{
+    background-color: rgba(226, 171, 70, 0.671);
+}
+.tp-sli-h {
+    font-size: 13px;
+}
+
+.tp-sli-h a {
+    background-color: rgb(235, 199, 69);
+}
+
+.slider-content {
+    background: radial-gradient(circle, rgba(250, 252, 178, 1) 0%, rgba(178, 203, 233, 1) 78%);
+}
+.sli-in{
+    width: 98%;
+    height: 40px;
+}
+.card-body button{
+    width: 98%;
+}
+.modern-furniture{
+    background-color: rgb(238, 238, 238);
+}
+.mf-img{
+    background-color: rgb(228, 222, 222);;
+}
+.mf-img2{
+    background-color:#EFD8CC;
+}
+.mf-img3{
+    background-color: #E0E7F3;
+}
