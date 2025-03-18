@@ -44,14 +44,27 @@
     padding-top: 30px;
     padding-bottom: 34px;
 }
-.sale-a{
-    background-color: rgba(137, 221, 236, 0.671);
+.w-sofa{
+    background-color: rgba(159, 195, 204, 0.89);
 }
-.sale-b{
-    height: 310px;
+.w-sofa img{
+    transform: scale(1.1);
+    margin-top: 70px;
+    margin-bottom: -35px;
+}
+.c-sale{
+    height: 285px;
+    overflow: hidden;
+    background-size: contain;
     background-image: url(../img/img002.jpg);
-    background-size: cover;
-    background-position: center;
+}
+.chair-sale{
+    height: 285px;
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+.chair-sale img{
+    margin-left: 90px;
 }
 .lable-r{
     width: 20px;
@@ -64,8 +77,9 @@
     padding-bottom: 10px;
 }
 
-.sale-c{
-    background-color: rgba(226, 171, 70, 0.671);
+.table{
+    width: 100%;
+    height: fit-content;
 }
 .tp-sli-h {
     font-size: 13px;
