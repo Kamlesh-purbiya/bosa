@@ -1,6 +1,29 @@
 .about-us{
-    width: 100%;
-    height: 350px;
+    height: 380px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     background-image: url(../img/inner-page.jpg);
+}
+.about-img span{
+    top: 40%;
+    margin-left: 8%;
+}
+.s-content{
+    width: 100%;
+    height: auto;
+}
+.s-text hr{
+    width: 100px;
+    height: 3px;
+    overflow: hidden;
+    color: #e5ff00;
+    background-color: #798603;
+}
+.s-img-content{
+    width: 90%;
+    height: 600px;
+    margin: 50px auto;
+    background-image: url(../img/img10.jpg);
     background-position: center;
 }
