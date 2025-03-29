@@ -27,3 +27,6 @@
     background-image: url(../img/img10.jpg);
     background-position: center;
 }
+.bg-grey{
+    background-color: rgb(182, 181, 181);
+}
